@@ -5,7 +5,7 @@ make SURE you have .NET 8.0 Windows Desktop Runtime installed. If you don't, thi
 # HOW TO USE:
 Click on "Start" to start the autoclicker <br>
 Click on "Stop" to stop the autoclicker <br><br>
-**IF WINDOWS DEFENDER FLAGS THE APP**:
+**IF WINDOWS DEFENDER FLAGS THE APP**:<br>
 Since this is made on my computer, and I'm not some rich billionaire, Windows Defender will<br>
 always flag this app as "Unknown Publisher".<br><br>
 To open the app: Click **MORE INFO** then **RUN ANYWAY**<br>
