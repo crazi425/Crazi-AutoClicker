@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoClicker", "AutoClicker\AutoClicker.csproj", "{ADF9A7F1-CEF0-42F7-8401-B5DBA17901C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF9A7F1-CEF0-42F7-8401-B5DBA17901C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF9A7F1-CEF0-42F7-8401-B5DBA17901C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF9A7F1-CEF0-42F7-8401-B5DBA17901C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF9A7F1-CEF0-42F7-8401-B5DBA17901C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F978B652-1FC1-4E88-B5F0-0274673A0250}
+	EndGlobalSection
+EndGlobal
