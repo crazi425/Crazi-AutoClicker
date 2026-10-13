@@ -3,8 +3,15 @@
 make SURE you have .NET 8.0 Windows Desktop Runtime installed. If you don't, this app won't work
 
 # HOW TO USE:
-Click on "Start" to start the autoclicker <p>&nbsp;</p>
-Click on "Stop" to stop the autoclicker
+Click on "Start" to start the autoclicker <br>
+Click on "Stop" to stop the autoclicker <br><br>
+**IF WINDOWS DEFENDER FLAGS THE APP**:
+Since this is made on my computer, and I'm not some rich billionaire, Windows Defender will<br>
+always flag this app as "Unknown Publisher".<br><br>
+To open the app: Click **MORE INFO** then **RUN ANYWAY**<br>
+If you really don't trust me, then don't open it 😎
+
+
 
 # HOW TO DOWNLOAD
 Look to the right of your screen. Then click on releases, and download the .ZIP file.
