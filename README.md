@@ -1,9 +1,10 @@
 
-# Crazi-AutoClicker
-make SURE you have .NET 8.0 Windows Desktop Runtime installed. If you don't, this app won't work
+# Crazi's AutoClicker
+
 
 # HOW TO DOWNLOAD
-Look to the right of your screen. Then click on releases, and download the .ZIP file.
+Look to the right of your screen. Then click on releases, and download the .ZIP file.<br>
+make SURE you have .NET 8.0 Windows Desktop Runtime installed. If you don't, this app won't work
 
 # HOW TO USE:
 Click on "Start" to start the autoclicker <br>
